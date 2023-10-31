@@ -29,7 +29,7 @@
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
-	color: white;
+	color: rgb(235, 233, 233);
 	text-align: right;
 	flex: 1 1 0%;
 }
